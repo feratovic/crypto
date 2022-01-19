@@ -18,3 +18,4 @@ npm run dev
 ```
 
 
+### Special thanks to https://www.enyelsequeira.com/ for incredible solidity and metamask tutorial 
