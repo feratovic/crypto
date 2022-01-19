@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Using Web 3.0 methodologies, React, Solidity and Metamask l created application which main usage is to send eth with low gas fees.
+Using Web 3.0 methodologies, React, Solidity and Metamask l created application which main usage is to send eth (ropsten) with low gas fees.
 
 ## How to run the application
 To run the application you need to clone repo and inside client folder create .env file and add 
