@@ -18,6 +18,6 @@ npm run dev
 ```
 
 
-### Special thanks to https://www.enyelsequeira.com/ for incredible solidity and metamask tutorial 
-### Personal portfolio https://www.elmazferatovic.me/en
+### Special thanks to https://www.enyelsequeira.com/ for incredible solidity and metamask tutorial.
+### Personal portfolio https://www.elmazferatovic.me/en.
 
