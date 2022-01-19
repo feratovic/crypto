@@ -1,5 +1,10 @@
 #  Web 3.0 Blockchain Application
 
+## Introduction
+
+Using Web 3.0 methodologies, React, Solidity and Metamask l created application which main usage is to send eth with low gass fees.
+
+## How to run the application
 To run the application you need to clone repo then create .env file and add 
 
 ```
