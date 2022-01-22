@@ -74,11 +74,10 @@ export const TransactionProvider = ({children}) => {
     
     if(accounts.length){
       setCurrentAccount(accounts[0]);
-
       getAllTransactions();
     }else{
       console.log('No accounts found');
-      toast.error("No ethereum object.");
+      //toast.error("No ethereum object.");
     }
   }catch (error){
     console.log(error);
@@ -96,7 +95,7 @@ export const TransactionProvider = ({children}) => {
 
     }catch (error) {
       console.log(error);
-      toast.error("No ethereum object.");
+      //toast.error("No ethereum object.");
       throw new Error("No ethereum object.")
     }
   }

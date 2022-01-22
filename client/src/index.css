@@ -95,6 +95,34 @@ body {
   -webkit-text-fill-color: transparent;
 }
 
+.Toastify__toast-icon > svg {
+  fill: white !important;
+}
+
+.Toastify__toast--error {
+  background-color: #6d253f !important;
+  color: white !important;
+  font-weight: 600;
+}
+
+.Toastify__toast--warning {
+  background-color: #e8960f !important;
+  color: white !important;
+  font-weight: 600;
+}
+
+.Toastify__toast--success {
+  background-color: #008140 !important;
+  color: white !important;
+  font-weight: 600;
+}
+
+.Toastify__progress-bar--error,
+.Toastify__progress-bar--warning,
+.Toastify__progress-bar--success {
+  background-color: white !important;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
