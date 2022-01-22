@@ -1,4 +1,22 @@
-#  Web 3.0 Blockchain Application
+
+
+<h1 align="center">
+   <img align='center' src="https://media2.giphy.com/media/0o4evoAXOcaQTPSBWM/giphy.gif?cid=ecf05e47xn7l9aizu08ayyx1d6ogjlogwwkdb62ku4vsd1gs&rid=giphy.gif&ct=s" width="220"> 
+  <br />
+  Web 3.0 Blockchain Application
+</h1>
+
+<h4 align="center">
+  <a href="https://crypto-lovat.vercel.app/">
+      View Demo
+      <br /><br />
+      <img align="center" alt="WEB 3.0" src="https://www.elmazferatovic.me/images/crypto.jpg"  />
+  </a>
+  
+
+
+</h4>
+
 
 ## Introduction
 
@@ -18,6 +36,25 @@ npm run dev
 ```
 
 
-### Special thanks to https://www.enyelsequeira.com/ for incredible solidity and metamask tutorial.
-### Personal portfolio https://www.elmazferatovic.me/en.
+
+## 🤝🏻 &nbsp;Connect with Me
+
+[<img align="left" alt="elmazferatovic.me" width="40" src="https://freepngimg.com/thumb/world_wide_web/24850-9-world-wide-web-clipart.png"/>][website]
+[<img align="left" alt="Elmaz Feratovic | LinkedIn" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="Elmaz Feratovic |  Instagram" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
+ 
+ <br/>
+ <br/>
+ 
+---
+
+<h6> Special thanks to https://www.enyelsequeira.com/ for incredible solidity and metamask tutorial. </h6>
+ 
+---
+
+⭐️ From [feratovic](https://github.com/feratovic)
+
+[website]: https://www.elmazferatovic.me/en
+[instagram]: https://www.instagram.com/elmazferatovic/
+[linkedin]: https://www.linkedin.com/in/elmaz-feratovic-22892b160/
 
