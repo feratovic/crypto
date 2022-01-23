@@ -12,9 +12,6 @@
       <br /><br />
       <img align="center" alt="WEB 3.0" src="https://www.elmazferatovic.me/images/crypto.jpg"  />
   </a>
-  
-
-
 </h4>
 
 
