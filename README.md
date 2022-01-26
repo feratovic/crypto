@@ -45,7 +45,7 @@ npm run dev
  
 ---
 
-<h6> Special thanks to https://www.enyelsequeira.com/ for incredible solidity and metamask tutorial. </h6>
+<h6> Special thanks to jsmasterypro for incredible solidity and metamask tutorial. </h6>
  
 ---
 
